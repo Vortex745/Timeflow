@@ -47,7 +47,12 @@
 
 ## 📱 应用截图
 
-> 待添加应用截图
+> ![4a19f4e0e54dea2979fbb2ea2ee04f28](https://github.com/user-attachments/assets/c229d732-b907-43e6-a5d6-7ae0ff2a2572)
+> ![98132acc14494797c4b2cd44b093db19](https://github.com/user-attachments/assets/7d183c34-80a0-4939-b457-e5f90ed77f15)
+> ![7f15dab3b7942d75ecf575e43f40540c](https://github.com/user-attachments/assets/8a3831ad-2ece-4f6d-b7f2-dcf3a3db35a0)
+> ![dce5edf82d531a852e95d920d05ec1ff](https://github.com/user-attachments/assets/ce966937-47f4-46e3-abae-1e778a111781)
+> ![3a6c8ccef6755f7b811f000c1d6b016f](https://github.com/user-attachments/assets/5e35e88f-ccdd-440e-92bf-251ec6a917ed)
+
 
 ---
 
