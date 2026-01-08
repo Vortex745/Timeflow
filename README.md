@@ -1,4 +1,4 @@
-#  ![logo](https://github.com/user-attachments/assets/72db59f2-f9f8-483a-a124-bb0d0d67b5f7)时光笔记
+# 时光笔记
 
 > 让每一分钟和每一分钱都有意义
 
